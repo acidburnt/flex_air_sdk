@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<extension xmlns="http://ns.adobe.com/air/extension/3.1">
+<extension xmlns="http://ns.adobe.com/air/extension/3.6">
 
 <!-- Adobe AIR Extension Descriptor File Template.
 
 	Specifies parameters for identifying AIR extensions.
 
-	xmlns - The Adobe AIR extension namespace: http://ns.adobe.com/air/extension/3.1
+	xmlns - The Adobe AIR extension namespace: http://ns.adobe.com/air/extension/3.6
 			The last segment of the namespace specifies the version 
 			of the AIR runtime required for this extension to load.			
 -->

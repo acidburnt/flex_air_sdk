@@ -26,7 +26,7 @@ package air.net
  * when compiling the application if you are using Flex SDK.
  * </p>
  * 
- * <p platform="actionscript">In Adobe<sup>&#xAE;</sup> Flash<sup>&#xAE;</sup> CS3 Professional,
+ * <p platform="actionscript">In Adobe<sup>&#xAE;</sup> Flash<sup>&#xAE;</sup> Professional CS3,
  * this class is included in the ServiceMonitorShim.swc file. To use classes in the air.net package , 
  * you must first drag the ServiceMonitorShim component from the Components panel to the 
  * Library and then add the following <code>import</code> statement to your ActionScript 3.0 code:

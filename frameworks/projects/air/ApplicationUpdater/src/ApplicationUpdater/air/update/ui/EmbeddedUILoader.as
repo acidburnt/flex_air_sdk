@@ -136,7 +136,10 @@ package air.update.ui
 				{
 					this.appUpdater.cancelUpdate();	
 				}
-				applicationDialogs.setApplicationUpdater(null);
+				if (applicationDialogs != null)
+				{
+				    applicationDialogs.setApplicationUpdater(null);
+				}
 				uiWindow.close();
 				uiWindow = null;
 				//NativeApplication.nativeApplication.exit();

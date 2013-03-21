@@ -1,4 +1,4 @@
-Adobe AIR 3.1 SDK
+Adobe AIR 3.6 SDK
 README FILE
 
 
@@ -48,7 +48,7 @@ FRAMEWORKS
 
     - aircore.swf - Provides HTML-based AIR applications various additional API, including service monitoring.
 
- - A PROJECTS directory, which includes source files for the AIR application update framework and for the service monitor framework.
+ - A PROJECTS directory, which includes source files for the AIR application update framework, for the service monitor framework, and for Android application licensing.
 
 LIB
 
@@ -92,6 +92,14 @@ TEMPLATES/AIR
  
  - Descriptor.3.2.xsd - An XML Schema Definition file for the AIR 3.2 application descriptor file. 
  
+ - Descriptor.3.3.xsd - An XML Schema Definition file for the AIR 3.3 application descriptor file. 
+
+ - Descriptor.3.4.xsd - An XML Schema Definition file for the AIR 3.4 application descriptor file. 
+
+ - Descriptor.3.5.xsd - An XML Schema Definition file for the AIR 3.5 application descriptor file. 
+ 
+ - Descriptor.3.6.xsd - An XML Schema Definition file for the AIR 3.6 application descriptor file. 
+
  - descriptor-template.xml - A template of the application descriptor file, which is required for each AIR application. 
 
 
@@ -101,6 +109,16 @@ TEMPLATES/EXTENSIONS
 
  - Descriptor.3.1.xsd - An XML Schema Definition file for the AIR 3.1 extension descriptor file. 
 
+ - Descriptor.3.2.xsd - An XML Schema Definition file for the AIR 3.2 extension descriptor file. 
+
+ - Descriptor.3.3.xsd - An XML Schema Definition file for the AIR 3.3 extension descriptor file. 
+
+ - Descriptor.3.4.xsd - An XML Schema Definition file for the AIR 3.4 extension descriptor file. 
+
+ - Descriptor.3.5.xsd - An XML Schema Definition file for the AIR 3.5 extension descriptor file. 
+ 
+ - Descriptor.3.6.xsd - An XML Schema Definition file for the AIR 3.6 extension descriptor file. 
+
  - extension-descriptor-template.xml -  A template of the extension descriptor file, which is required for each AIR extension.
 
 
@@ -108,12 +126,22 @@ TEMPLATES/EXTENSIONS/iOS
 
  - Descriptor.3.1.xsd - An XML Schema Definition file for the AIR 3.1 iOS platform descriptor file.
 
+ - Descriptor.3.2.xsd - An XML Schema Definition file for the AIR 3.2 iOS platform descriptor file.
+ 
+ - Descriptor.3.3.xsd - An XML Schema Definition file for the AIR 3.3 iOS platform descriptor file.
+ 
+ - Descriptor.3.4.xsd - An XML Schema Definition file for the AIR 3.4 iOS platform descriptor file.
+
+ - Descriptor.3.5.xsd - An XML Schema Definition file for the AIR 3.5 iOS platform descriptor file.
+ 
+ - Descriptor.3.6.xsd - An XML Schema Definition file for the AIR 3.6 iOS platform descriptor file.
+
  - platform-descriptor-template.xml - A template of the iOS platform descriptor file, for iOS platform specific options.
 
 
 ======iOS Target Support======
 
-If you have downloaded a version of the AIR 2 SDK that supports packaging iOS targets, additional files will be included. The following files and folders in the AIR 2 SDK contain the tools that enable you to compile AIR applications into .ipa files for iOS devices.
+If you have downloaded a version of the AIR SDK that supports packaging iOS targets, additional files will be included. The following files and folders in the AIR SDK contain the tools that enable you to compile AIR applications into .ipa files for iOS devices.
 
 LIB
  - AOT - Directory containing the files necessary for the AOT (Ahead of Time) Compiler used by ADT
@@ -133,7 +161,7 @@ LIB
 
 More information about all of these steps is available in the "Developing Adobe AIR Applications with HTML and Ajax". See the next section for the locations of the AIR documentation.
 
-If you want to build Flex-based AIR applications, download the Flex SDK: http://www.adobe.com/products/flex/sdk/ 
+If you want to build Flex-based AIR applications, download the Flex SDK: http://www.adobe.com/go/flex_sdk/
 
 
 ======AIR SDK Documentation======
