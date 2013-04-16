@@ -1,4 +1,4 @@
-Adobe AIR 3.6 SDK
+Adobe AIR 3.7 SDK
 README FILE
 
 
@@ -100,6 +100,8 @@ TEMPLATES/AIR
  
  - Descriptor.3.6.xsd - An XML Schema Definition file for the AIR 3.6 application descriptor file. 
 
+ - Descriptor.3.7.xsd - An XML Schema Definition file for the AIR 3.7 application descriptor file. 
+
  - descriptor-template.xml - A template of the application descriptor file, which is required for each AIR application. 
 
 
@@ -119,6 +121,8 @@ TEMPLATES/EXTENSIONS
  
  - Descriptor.3.6.xsd - An XML Schema Definition file for the AIR 3.6 extension descriptor file. 
 
+ - Descriptor.3.7.xsd - An XML Schema Definition file for the AIR 3.7 application descriptor file. 
+
  - extension-descriptor-template.xml -  A template of the extension descriptor file, which is required for each AIR extension.
 
 
@@ -135,6 +139,8 @@ TEMPLATES/EXTENSIONS/iOS
  - Descriptor.3.5.xsd - An XML Schema Definition file for the AIR 3.5 iOS platform descriptor file.
  
  - Descriptor.3.6.xsd - An XML Schema Definition file for the AIR 3.6 iOS platform descriptor file.
+
+ - Descriptor.3.7.xsd - An XML Schema Definition file for the AIR 3.7 application descriptor file. 
 
  - platform-descriptor-template.xml - A template of the iOS platform descriptor file, for iOS platform specific options.
 

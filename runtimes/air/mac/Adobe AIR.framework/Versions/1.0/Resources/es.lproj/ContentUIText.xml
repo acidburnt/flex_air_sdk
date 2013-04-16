@@ -7,6 +7,48 @@
    <str name="ERROR__DAMAGED_APPLICATION" translate="yes">
      <val>La instalación de esta aplicación está dañada. Intente volver a realizar la instalación o póngase en contacto con el editor para obtener ayuda.</val> 
    </str>
+   <str name="ERROR__INVALID_DESC" translate="yes">
+     <val>Esta aplicación tiene un descriptor de aplicación no válido. Repita la instalación o solicite asistencia al editor.</val>
+   </str>
+   <str name="ERROR__NO_DESC" translate="yes">
+     <val>No se ha encontrado el descriptor de aplicación para esta aplicación. Repita la instalación o solicite asistencia al editor.</val>
+   </str>
+   <str name="ERROR__LOAD_CONTENT" translate="yes">
+     <val>No se ha podido cargar contenido inicial para esta aplicación. Repita la instalación o solicite asistencia al editor.</val>
+   </str>
+   <str name="ERROR__NO_CONTENT" translate="yes">
+     <val>No se ha encontrado contenido inicial para esta aplicación. Repita la instalación o solicite asistencia al editor.</val>
+   </str>
+   <str name="ERROR__NO_PUBID" translate="yes">
+     <val>No se ha encontrado el ID de editor para esta aplicación. Repita la instalación o solicite asistencia al editor.</val>
+   </str>
+   <str name="ERROR__PROFILE_NOT_SUPPORTED" translate="yes">
+     <val>El perfil especificado no es compatible con esta aplicación. Repita la instalación o solicite asistencia al editor.</val>
+   </str>
+   <str name="ERROR__UNEXPECTED_PUBID" translate="yes">
+     <val>Se ha encontrado un ID de editor inesperado para esta aplicación. Repita la instalación o solicite asistencia al editor.</val>
+   </str>
+   <str name="ERROR__DUPLICATE_EXTENSION" translate="yes">
+     <val>Se ha encontrado una extensión nativa duplicada para esta aplicación. Repita la instalación o solicite asistencia al editor.</val>
+   </str>
+   <str name="ERROR__EXTENSION_DEPLOYMENT_MISMATCH" translate="yes">
+     <val>Hay una discrepancia de implementación de extensión nativa para esta aplicación. Repita la instalación o solicite asistencia al editor.</val>
+   </str>
+   <str name="ERROR__EXTENSION_MISSING" translate="yes">
+     <val>Falta la extensión nativa requerida para esta aplicación. Repita la instalación o solicite asistencia al editor.</val>
+   </str>
+   <str name="ERROR__EXTENSION_XML_INVALID" translate="yes">
+     <val>El archivo xml de la extensión nativa no es válido para esta aplicación. Repita la instalación o solicite asistencia al editor.</val>
+   </str>
+   <str name="ERROR__NOT_SUPPORTED_IN_PROFILE" translate="yes">
+     <val>El perfil de la extensión nativa no es compatible con esta aplicación. Repita la instalación o solicite asistencia al editor.</val>
+   </str>
+   <str name="ERROR__EXTENSION_SWF_VERSION_INVALID" translate="yes">
+     <val>La versión de .swf de la biblioteca de extensión nativa no es válida para esta aplicación. Repita la instalación o solicite asistencia al editor.</val>
+   </str>
+   <str name="ERROR__EXTENSION_APP_VERSION_MISMATCH" translate="yes">
+     <val>El espacio de nombres de la extensión nativa o la versión de swf es incompatible con esta aplicación. Repita la instalación o solicite asistencia al editor.</val>
+   </str>
    <str name="HTML_CONTEXTMENU__NAVIGATION__STOP" translate="yes">
      <val>Detener</val> 
    </str>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<airSdk xmlns="http://ns.adobe.com/air/sdk/3.6">
+<airSdk xmlns="http://ns.adobe.com/air/sdk/3.7">
 	<applicationNamespaces>
+		<versionMap>
+			<descriptorNamespace>http://ns.adobe.com/air/application/3.7</descriptorNamespace>
+			<swfVersion>20</swfVersion>
+		</versionMap>
 		<versionMap>
 			<descriptorNamespace>http://ns.adobe.com/air/application/3.6</descriptorNamespace>
 			<swfVersion>19</swfVersion>
@@ -71,6 +75,10 @@
 		</versionMap>
 	</applicationNamespaces>
 	<extensionNamespaces>
+		<versionMap>
+			<descriptorNamespace>http://ns.adobe.com/air/extension/3.7</descriptorNamespace>
+			<swfVersion>20</swfVersion>
+		</versionMap>
 		<versionMap>
 			<descriptorNamespace>http://ns.adobe.com/air/extension/3.6</descriptorNamespace>
 			<swfVersion>19</swfVersion>

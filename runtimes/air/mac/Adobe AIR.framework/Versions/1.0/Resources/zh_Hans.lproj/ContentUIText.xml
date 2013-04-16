@@ -7,6 +7,48 @@
    <str name="ERROR__DAMAGED_APPLICATION" translate="yes">
      <val>此应用程序的安装已损坏。请尝试重新安装或与发行商联系以寻求帮助。</val> 
    </str>
+   <str name="ERROR__INVALID_DESC" translate="yes">
+     <val>此应用程序的应用程序描述符无效。请尝试重新安装或联系发布者寻求帮助。</val>
+   </str>
+   <str name="ERROR__NO_DESC" translate="yes">
+     <val>找不到此应用程序的应用程序描述符。请尝试重新安装或联系发布者寻求帮助。</val>
+   </str>
+   <str name="ERROR__LOAD_CONTENT" translate="yes">
+     <val>无法为此应用程序加载初始内容。请尝试重新安装或联系发布者寻求帮助。</val>
+   </str>
+   <str name="ERROR__NO_CONTENT" translate="yes">
+     <val>找不到此应用程序的初始内容。请尝试重新安装或联系发布者寻求帮助。</val>
+   </str>
+   <str name="ERROR__NO_PUBID" translate="yes">
+     <val>找不到此应用程序的发布者 ID。请尝试重新安装或联系发布者寻求帮助。</val>
+   </str>
+   <str name="ERROR__PROFILE_NOT_SUPPORTED" translate="yes">
+     <val>指定的配置文件不受此应用程序支持。请尝试重新安装或联系发布者寻求帮助。</val>
+   </str>
+   <str name="ERROR__UNEXPECTED_PUBID" translate="yes">
+     <val>找到此应用程序的意外发布者 ID。请尝试重新安装或联系发布者寻求帮助。</val>
+   </str>
+   <str name="ERROR__DUPLICATE_EXTENSION" translate="yes">
+     <val>发现了一个重复的用于此应用程序的本机扩展。请尝试重新安装或联系发布者寻求帮助。</val>
+   </str>
+   <str name="ERROR__EXTENSION_DEPLOYMENT_MISMATCH" translate="yes">
+     <val>此应用程序的本机扩展部署不匹配。请尝试重新安装或联系发布者寻求帮助。</val>
+   </str>
+   <str name="ERROR__EXTENSION_MISSING" translate="yes">
+     <val>此应用程序必需的本机扩展缺失。请尝试重新安装或联系发布者寻求帮助。</val>
+   </str>
+   <str name="ERROR__EXTENSION_XML_INVALID" translate="yes">
+     <val>用于此应用程序的本机扩展 xml 文件无效。请尝试重新安装或联系发布者寻求帮助。</val>
+   </str>
+   <str name="ERROR__NOT_SUPPORTED_IN_PROFILE" translate="yes">
+     <val>此应用程序不支持该本机扩展配置文件。请尝试重新安装或联系发布者寻求帮助。</val>
+   </str>
+   <str name="ERROR__EXTENSION_SWF_VERSION_INVALID" translate="yes">
+     <val>用于此应用程序的本机扩展 library.swf 版本无效。请尝试重新安装或联系发布者寻求帮助。</val>
+   </str>
+   <str name="ERROR__EXTENSION_APP_VERSION_MISMATCH" translate="yes">
+     <val>本机扩展命名空间或 swf 版本与此应用程序不兼容。请尝试重新安装或联系发布者寻求帮助。</val>
+   </str>
    <str name="HTML_CONTEXTMENU__NAVIGATION__STOP" translate="yes">
      <val>停止</val> 
    </str>

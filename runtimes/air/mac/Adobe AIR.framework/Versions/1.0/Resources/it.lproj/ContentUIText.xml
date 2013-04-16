@@ -7,6 +7,48 @@
    <str name="ERROR__DAMAGED_APPLICATION" translate="yes">
      <val>Il pacchetto di installazione di questa applicazione è danneggiato. Provate a ripetere l'installazione oppure contattate il produttore dell'applicazione per richiedere assistenza.</val> 
    </str>
+   <str name="ERROR__INVALID_DESC" translate="yes">
+     <val>Questa applicazione ha un descrittore non valido. Provate a reinstallarla o contattate l'editore per ottenere assistenza.</val>
+   </str>
+   <str name="ERROR__NO_DESC" translate="yes">
+     <val>Non è stato rilevato il descrittore per questa applicazione. Provate a reinstallarla o contattate l'editore per ottenere assistenza.</val>
+   </str>
+   <str name="ERROR__LOAD_CONTENT" translate="yes">
+     <val>Non è stato possibile caricare il contenuto iniziale per questa applicazione. Provate a reinstallarla o contattate l'editore per ottenere assistenza.</val>
+   </str>
+   <str name="ERROR__NO_CONTENT" translate="yes">
+     <val>Non è stato rilevato il contenuto iniziale per questa applicazione. Provate a reinstallarla o contattate l'editore per ottenere assistenza.</val>
+   </str>
+   <str name="ERROR__NO_PUBID" translate="yes">
+     <val>Non è stato rilevato l'ID editore per questa applicazione. Provate a reinstallarla o contattate l'editore per ottenere assistenza.</val>
+   </str>
+   <str name="ERROR__PROFILE_NOT_SUPPORTED" translate="yes">
+     <val>Il profilo specificato non è supportato in questa applicazione. Provate a reinstallarla o contattate l'editore per ottenere assistenza.</val>
+   </str>
+   <str name="ERROR__UNEXPECTED_PUBID" translate="yes">
+     <val>È stato rilevato un ID editore non previsto per questa applicazione. Provate a reinstallarla o contattate l'editore per ottenere assistenza.</val>
+   </str>
+   <str name="ERROR__DUPLICATE_EXTENSION" translate="yes">
+     <val>È stata rilevata un'estensione nativa duplicata per questa applicazione. Provate a reinstallarla o contattate l'editore per ottenere assistenza.</val>
+   </str>
+   <str name="ERROR__EXTENSION_DEPLOYMENT_MISMATCH" translate="yes">
+     <val>È stata rilevata una mancata corrispondenza nella distribuzione dell'estensione nativa di questa applicazione. Provate a reinstallarla o contattate l'editore per ottenere assistenza.</val>
+   </str>
+   <str name="ERROR__EXTENSION_MISSING" translate="yes">
+     <val>Non è stata rilevata l'estensione nativa obbligatoria per questa applicazione. Provate a reinstallarla o contattate l'editore per ottenere assistenza.</val>
+   </str>
+   <str name="ERROR__EXTENSION_XML_INVALID" translate="yes">
+     <val>Il file xml dell'estensione nativa non è valido per questa applicazione. Provate a reinstallarla o contattate l'editore per ottenere assistenza.</val>
+   </str>
+   <str name="ERROR__NOT_SUPPORTED_IN_PROFILE" translate="yes">
+     <val>Il profilo dell'estensione nativa non è supportato in questa applicazione. Provate a reinstallarla o contattate l'editore per ottenere assistenza.</val>
+   </str>
+   <str name="ERROR__EXTENSION_SWF_VERSION_INVALID" translate="yes">
+     <val>La versione del file library.swf dell'estensione nativa non è valida per questa applicazione. Provate a reinstallarla o contattate l'editore per ottenere assistenza.</val>
+   </str>
+   <str name="ERROR__EXTENSION_APP_VERSION_MISMATCH" translate="yes">
+     <val>Lo spazio dei nomi dell'estensione nativa o la versione swf è incompatibile con questa applicazione. Provate a reinstallarla o contattate l'editore per ottenere assistenza.</val>
+   </str>
    <str name="HTML_CONTEXTMENU__NAVIGATION__STOP" translate="yes">
      <val>Interrompi</val> 
    </str>

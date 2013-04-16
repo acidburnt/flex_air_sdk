@@ -7,6 +7,48 @@
    <str name="ERROR__DAMAGED_APPLICATION" translate="yes">
      <val>Ta instalacja aplikacji jest uszkodzona. Spróbuj ponownie zainstalować aplikację lub skontaktuj się z jej wydawcą, aby uzyskać pomoc.</val> 
    </str>
+   <str name="ERROR__INVALID_DESC" translate="yes">
+     <val>Deskryptor tej aplikacji jest nieprawidłowy. Spróbuj ponownie zainstalować aplikację lub uzyskać pomoc od wydawcy.</val>
+   </str>
+   <str name="ERROR__NO_DESC" translate="yes">
+     <val>Nie można znaleźć deskryptora tej aplikacji. Spróbuj ponownie zainstalować aplikację lub uzyskać pomoc od wydawcy.</val>
+   </str>
+   <str name="ERROR__LOAD_CONTENT" translate="yes">
+     <val>Nie można wczytać zawartości początkowej dla tej aplikacji. Spróbuj ponownie zainstalować aplikację lub uzyskać pomoc od wydawcy.</val>
+   </str>
+   <str name="ERROR__NO_CONTENT" translate="yes">
+     <val>Nie można znaleźć zawartości początkowej dla tej aplikacji. Spróbuj ponownie zainstalować aplikację lub uzyskać pomoc od wydawcy.</val>
+   </str>
+   <str name="ERROR__NO_PUBID" translate="yes">
+     <val>Nie można znaleźć identyfikatora wydawcy tej aplikacji. Spróbuj ponownie zainstalować aplikację lub uzyskać pomoc od wydawcy.</val>
+   </str>
+   <str name="ERROR__PROFILE_NOT_SUPPORTED" translate="yes">
+     <val>Określony profil nie jest obsługiwany dla tej aplikacji. Spróbuj ponownie zainstalować aplikację lub uzyskać pomoc od wydawcy.</val>
+   </str>
+   <str name="ERROR__UNEXPECTED_PUBID" translate="yes">
+     <val>Znaleziono nieoczekiwany identyfikator wydawcy dla tej aplikacji. Spróbuj ponownie zainstalować aplikację lub uzyskać pomoc od wydawcy.</val>
+   </str>
+   <str name="ERROR__DUPLICATE_EXTENSION" translate="yes">
+     <val>Znaleziono powielone rozszerzenie natywne dla tej aplikacji. Spróbuj ponownie zainstalować aplikację lub uzyskać pomoc od wydawcy.</val>
+   </str>
+   <str name="ERROR__EXTENSION_DEPLOYMENT_MISMATCH" translate="yes">
+     <val>Wystąpiła niezgodność zainstalowanego rozszerzenia natywnego z tą aplikacją. Spróbuj ponownie zainstalować aplikację lub uzyskać pomoc od wydawcy.</val>
+   </str>
+   <str name="ERROR__EXTENSION_MISSING" translate="yes">
+     <val>Brak rozszerzenia natywnego wymaganego dla tej aplikacji. Spróbuj ponownie zainstalować aplikację lub uzyskać pomoc od wydawcy.</val>
+   </str>
+   <str name="ERROR__EXTENSION_XML_INVALID" translate="yes">
+     <val>Plik XML rozszerzenia natywnego jest nieprawidłowy dla tej aplikacji. Spróbuj ponownie zainstalować aplikację lub uzyskać pomoc od wydawcy.</val>
+   </str>
+   <str name="ERROR__NOT_SUPPORTED_IN_PROFILE" translate="yes">
+     <val>Profil rozszerzenia natywnego nie jest obsługiwany w przypadku tej aplikacji. Spróbuj ponownie zainstalować aplikację lub uzyskać pomoc od wydawcy.</val>
+   </str>
+   <str name="ERROR__EXTENSION_SWF_VERSION_INVALID" translate="yes">
+     <val>Wersja pliku SWF biblioteki rozszerzenia natywnego jest nieprawidłowa dla tej aplikacji. Spróbuj ponownie zainstalować aplikację lub uzyskać pomoc od wydawcy.</val>
+   </str>
+   <str name="ERROR__EXTENSION_APP_VERSION_MISMATCH" translate="yes">
+     <val>Przestrzeń nazw rozszerzenia natywnego lub wersji pliku SWF jest niezgodna z tą aplikacją. Spróbuj ponownie zainstalować aplikację lub uzyskać pomoc od wydawcy.</val>
+   </str>
    <str name="HTML_CONTEXTMENU__NAVIGATION__STOP" translate="yes">
      <val>Zatrzymaj</val> 
    </str>

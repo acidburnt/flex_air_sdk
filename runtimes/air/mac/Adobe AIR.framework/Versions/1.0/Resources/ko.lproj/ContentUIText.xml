@@ -7,6 +7,48 @@
    <str name="ERROR__DAMAGED_APPLICATION" translate="yes">
      <val>이 응용 프로그램의 설치가 중단되었습니다. 다시 설치하거나 제작자에게 문의하십시오.</val> 
    </str>
+   <str name="ERROR__INVALID_DESC" translate="yes">
+     <val>응용 프로그램에 유효하지 않은 응용 프로그램 설명자가 있습니다. 다시 설치하거나 제작자에게 도움을 요청하십시오.</val>
+   </str>
+   <str name="ERROR__NO_DESC" translate="yes">
+     <val>이 응용 프로그램에 대한 응용 프로그램 설명자를 찾을 수 없습니다. 다시 설치하거나 제작자에게 도움을 요청하십시오.</val>
+   </str>
+   <str name="ERROR__LOAD_CONTENT" translate="yes">
+     <val>이 응용 프로그램에 대한 초기 내용을 로드할 수 없습니다. 다시 설치하거나 제작자에게 도움을 요청하십시오.</val>
+   </str>
+   <str name="ERROR__NO_CONTENT" translate="yes">
+     <val>이 응용 프로그램에 대한 초기 내용을 찾을 수 없습니다. 다시 설치하거나 제작자에게 도움을 요청하십시오.</val>
+   </str>
+   <str name="ERROR__NO_PUBID" translate="yes">
+     <val>이 응용 프로그램에 대한 제작자 ID를 찾을 수 없습니다. 다시 설치하거나 제작자에게 도움을 요청하십시오.</val>
+   </str>
+   <str name="ERROR__PROFILE_NOT_SUPPORTED" translate="yes">
+     <val>지정한 프로파일이 이 응용 프로그램에 대해 지원되지 않습니다. 다시 설치하거나 제작자에게 도움을 요청하십시오.</val>
+   </str>
+   <str name="ERROR__UNEXPECTED_PUBID" translate="yes">
+     <val>이 응용 프로그램에 대한 예기치 않은 제작자 ID가 있습니다. 다시 설치하거나 제작자에게 도움을 요청하십시오.</val>
+   </str>
+   <str name="ERROR__DUPLICATE_EXTENSION" translate="yes">
+     <val>이 응용 프로그램에 대해 중복된 기본 확장이 있습니다. 다시 설치하거나 제작자에게 도움을 요청하십시오.</val>
+   </str>
+   <str name="ERROR__EXTENSION_DEPLOYMENT_MISMATCH" translate="yes">
+     <val>이 응용 프로그램에 대해 기본 확장 배포 불일치가 발생했습니다. 다시 설치하거나 제작자에게 도움을 요청하십시오.</val>
+   </str>
+   <str name="ERROR__EXTENSION_MISSING" translate="yes">
+     <val>이 응용 프로그램에 필요한 기본 확장이 누락되었습니다. 다시 설치하거나 제작자에게 도움을 요청하십시오.</val>
+   </str>
+   <str name="ERROR__EXTENSION_XML_INVALID" translate="yes">
+     <val>기본 확장 xml 파일이 이 응용 프로그램에 대해 유효하지 않습니다. 다시 설치하거나 제작자에게 도움을 요청하십시오.</val>
+   </str>
+   <str name="ERROR__NOT_SUPPORTED_IN_PROFILE" translate="yes">
+     <val>기본 확장 프로파일이 이 응용 프로그램에서 지원되지 않습니다. 다시 설치하거나 제작자에게 도움을 요청하십시오.</val>
+   </str>
+   <str name="ERROR__EXTENSION_SWF_VERSION_INVALID" translate="yes">
+     <val>기본 확장 라이브러리 .swf 버전이 이 응용 프로그램에 대해 유효하지 않습니다. 다시 설치하거나 제작자에게 도움을 요청하십시오.</val>
+   </str>
+   <str name="ERROR__EXTENSION_APP_VERSION_MISMATCH" translate="yes">
+     <val>기본 확장 네임스페이스 또는 swf 버전이 이 응용 프로그램과 호환되지 않습니다. 다시 설치하거나 제작자에게 도움을 요청하십시오.</val>
+   </str>
    <str name="HTML_CONTEXTMENU__NAVIGATION__STOP" translate="yes">
      <val>중지</val> 
    </str>

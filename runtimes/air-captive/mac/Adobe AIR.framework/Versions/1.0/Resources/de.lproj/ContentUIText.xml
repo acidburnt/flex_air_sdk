@@ -7,6 +7,48 @@
    <str name="ERROR__DAMAGED_APPLICATION" translate="yes">
      <val>Die Installation dieser Anwendung ist beschädigt. Versuchen Sie, die Anwendung neu zu installieren, oder wenden Sie sich an den Veröffentlicher.</val> 
    </str>
+   <str name="ERROR__INVALID_DESC" translate="yes">
+     <val>Diese Anwendung hat einen ungültigen Anwendungsdeskriptor. Versuchen Sie es mit einer Neuinstallation oder wenden Sie sich an den Hersteller.</val>
+   </str>
+   <str name="ERROR__NO_DESC" translate="yes">
+     <val>Anwendungsdeskriptor konnte für diese Datei nicht gefunden werden. Versuchen Sie es mit einer Neuinstallation oder wenden Sie sich an den Hersteller.</val>
+   </str>
+   <str name="ERROR__LOAD_CONTENT" translate="yes">
+     <val>Initital-Inhalt konnte für diese Anwendung nicht geladen werden. Versuchen Sie es mit einer Neuinstallation oder wenden Sie sich an den Hersteller.</val>
+   </str>
+   <str name="ERROR__NO_CONTENT" translate="yes">
+     <val>Initital-Inhalt konnte für diese Anwendung nicht gefunden werden. Versuchen Sie es mit einer Neuinstallation oder wenden Sie sich an den Hersteller.</val>
+   </str>
+   <str name="ERROR__NO_PUBID" translate="yes">
+     <val>Publisher-ID konnte für diese Anwendung nicht gefunden werden. Versuchen Sie es mit einer Neuinstallation oder wenden Sie sich an den Hersteller.</val>
+   </str>
+   <str name="ERROR__PROFILE_NOT_SUPPORTED" translate="yes">
+     <val>Das angegebene Profil wird für diese Anwendung nicht unterstützt. Versuchen Sie es mit einer Neuinstallation oder wenden Sie sich an den Hersteller.</val>
+   </str>
+   <str name="ERROR__UNEXPECTED_PUBID" translate="yes">
+     <val>Unerwartete Publisher-ID wurde für diese Anwendung gefunden. Versuchen Sie es mit einer Neuinstallation oder wenden Sie sich an den Hersteller.</val>
+   </str>
+   <str name="ERROR__DUPLICATE_EXTENSION" translate="yes">
+     <val>Ein Duplikat der nativen Erweiterung wurde für diese Anwendung gefunden. Versuchen Sie es mit einer Neuinstallation oder wenden Sie sich an den Hersteller.</val>
+   </str>
+   <str name="ERROR__EXTENSION_DEPLOYMENT_MISMATCH" translate="yes">
+     <val>Es gibt einen Konflikt bei der Bereitstellung für die native Erweiterung in dieser Anwendung. Versuchen Sie es mit einer Neuinstallation oder wenden Sie sich an den Hersteller.</val>
+   </str>
+   <str name="ERROR__EXTENSION_MISSING" translate="yes">
+     <val>Die erforderliche native Erweiterung fehlt für diese Anwendung. Versuchen Sie es mit einer Neuinstallation oder wenden Sie sich an den Hersteller.</val>
+   </str>
+   <str name="ERROR__EXTENSION_XML_INVALID" translate="yes">
+     <val>Die XML-Datei der nativen Erweiterung ist für diese Anwendung ungültig. Versuchen Sie es mit einer Neuinstallation oder wenden Sie sich an den Hersteller.</val>
+   </str>
+   <str name="ERROR__NOT_SUPPORTED_IN_PROFILE" translate="yes">
+     <val>Das Profil der nativen Erweiterung wird für diese Anwendung nicht unterstützt. Versuchen Sie es mit einer Neuinstallation oder wenden Sie sich an den Hersteller.</val>
+   </str>
+   <str name="ERROR__EXTENSION_SWF_VERSION_INVALID" translate="yes">
+     <val>Die Library.swf-Dateiversion der nativen Erweiterung ist für diese Anwendung ungültig. Versuchen Sie es mit einer Neuinstallation oder wenden Sie sich an den Hersteller.</val>
+   </str>
+   <str name="ERROR__EXTENSION_APP_VERSION_MISMATCH" translate="yes">
+     <val>Der Namespace der nativen Erweiterung oder die SWF-Version sind mit dieser Anwendung nicht kompatibel. Versuchen Sie es mit einer Neuinstallation oder wenden Sie sich an den Hersteller.</val>
+   </str>
    <str name="HTML_CONTEXTMENU__NAVIGATION__STOP" translate="yes">
      <val>Beenden</val> 
    </str>
