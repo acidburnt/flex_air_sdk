@@ -7,48 +7,6 @@
    <str name="ERROR__DAMAGED_APPLICATION" translate="yes">
      <val>Den här programinstallationen är skadad. Försök installera om eller kontakta utgivaren om du behöver hjälp.</val> 
    </str>
-   <str name="ERROR__INVALID_DESC" translate="yes">
-     <val>Det här programmet har en ogiltig programbeskrivningsfil. Prova med att installera om eller kontakta utgivaren för att få hjälp.</val>
-   </str>
-   <str name="ERROR__NO_DESC" translate="yes">
-     <val>Det gick inte att hitta programbeskrivningsfilen för det här programmet. Prova med att installera om eller kontakta utgivaren för att få hjälp.</val>
-   </str>
-   <str name="ERROR__LOAD_CONTENT" translate="yes">
-     <val>Det gick inte att läsa in det inledande innehållet för det här programmet. Prova med att installera om eller kontakta utgivaren för att få hjälp.</val>
-   </str>
-   <str name="ERROR__NO_CONTENT" translate="yes">
-     <val>Det gick inte att hitta det inledande innehållet för det här programmet. Prova med att installera om eller kontakta utgivaren för att få hjälp.</val>
-   </str>
-   <str name="ERROR__NO_PUBID" translate="yes">
-     <val>Det gick inte att hitta utgivar-ID:t för det här programmet. Prova med att installera om eller kontakta utgivaren för att få hjälp.</val>
-   </str>
-   <str name="ERROR__PROFILE_NOT_SUPPORTED" translate="yes">
-     <val>Den angivna profilen stöds inte med det här programmet. Prova med att installera om eller kontakta utgivaren för att få hjälp.</val>
-   </str>
-   <str name="ERROR__UNEXPECTED_PUBID" translate="yes">
-     <val>Ett oväntat utgivar-ID hittades för det här programmet. Prova med att installera om eller kontakta utgivaren för att få hjälp.</val>
-   </str>
-   <str name="ERROR__DUPLICATE_EXTENSION" translate="yes">
-     <val>En dubblett av ett systemspecifikt tillägg hittades för det här programmet. Prova med att installera om eller kontakta utgivaren för att få hjälp.</val>
-   </str>
-   <str name="ERROR__EXTENSION_DEPLOYMENT_MISMATCH" translate="yes">
-     <val>Det finns en felmatchad distribution av det systemspecifika tillägget för det här programmet. Prova med att installera om eller kontakta utgivaren för att få hjälp.</val>
-   </str>
-   <str name="ERROR__EXTENSION_MISSING" translate="yes">
-     <val>Det systemspecifika tillägg som krävs för det här programmet saknas. Prova med att installera om eller kontakta utgivaren för att få hjälp.</val>
-   </str>
-   <str name="ERROR__EXTENSION_XML_INVALID" translate="yes">
-     <val>Det systemspecifika tilläggets xml-fil är ogiltig för det här programmet. Prova med att installera om eller kontakta utgivaren för att få hjälp.</val>
-   </str>
-   <str name="ERROR__NOT_SUPPORTED_IN_PROFILE" translate="yes">
-     <val>Profilen för det systemspecifika tillägget stöds inte med det här programmet. Prova med att installera om eller kontakta utgivaren för att få hjälp.</val>
-   </str>
-   <str name="ERROR__EXTENSION_SWF_VERSION_INVALID" translate="yes">
-     <val>Det systemspecifika tilläggets library.swf-version är ogiltig för det här programmet. Prova med att installera om eller kontakta utgivaren för att få hjälp.</val>
-   </str>
-   <str name="ERROR__EXTENSION_APP_VERSION_MISMATCH" translate="yes">
-     <val>Namnutrymmet för det systemspecifika tillägget eller swf-versionen är inkompatibel med det här programmet. Prova med att installera om eller kontakta utgivaren för att få hjälp.</val>
-   </str>
    <str name="HTML_CONTEXTMENU__NAVIGATION__STOP" translate="yes">
      <val>Stoppa</val> 
    </str>

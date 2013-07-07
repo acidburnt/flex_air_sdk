@@ -7,48 +7,6 @@
    <str name="ERROR__DAMAGED_APPLICATION">
      <val>This installation of this application is damaged. Try re-installing or contacting the publisher for assistance.</val> 
    </str>
-   <str name="ERROR__INVALID_DESC">
-     <val>This application has an invalid application descriptor. Try re-installing or contacting the publisher for assistance.</val>
-   </str>
-   <str name="ERROR__NO_DESC">
-     <val>Application descriptor could not be found for this application. Try re-installing or contacting the publisher for assistance.</val>
-   </str>
-   <str name="ERROR__LOAD_CONTENT">
-     <val>Initial content could not be loaded for this application. Try re-installing or contacting the publisher for assistance.</val>
-   </str>
-   <str name="ERROR__NO_CONTENT">
-     <val>Initial content could not be found for this application. Try re-installing or contacting the publisher for assistance.</val>
-   </str>
-   <str name="ERROR__NO_PUBID">
-     <val>Publisher Id could not be found for this application. Try re-installing or contacting the publisher for assistance.</val>
-   </str>
-   <str name="ERROR__PROFILE_NOT_SUPPORTED">
-     <val>The specified profile is not supported for this application. Try re-installing or contacting the publisher for assistance.</val>
-   </str>
-   <str name="ERROR__UNEXPECTED_PUBID">
-     <val>Unexpected Publisher ID is found for this application. Try re-installing or contacting the publisher for assistance.</val>
-   </str>
-   <str name="ERROR__DUPLICATE_EXTENSION">
-     <val>A duplicate native extension is found for this application. Try re-installing or contacting the publisher for assistance.</val>
-   </str>
-   <str name="ERROR__EXTENSION_DEPLOYMENT_MISMATCH">
-     <val>There is a native extension deployment mismatch for this application. Try re-installing or contacting the publisher for assistance.</val>
-   </str>
-   <str name="ERROR__EXTENSION_MISSING">
-     <val>The required native extension is missing for this application. Try re-installing or contacting the publisher for assistance.</val>
-   </str>
-   <str name="ERROR__EXTENSION_XML_INVALID">
-     <val>The native extension xml file is invalid for this application. Try re-installing or contacting the publisher for assistance.</val>
-   </str>
-   <str name="ERROR__NOT_SUPPORTED_IN_PROFILE">
-     <val>The native extension profile is not supported with this application. Try re-installing or contacting the publisher for assistance.</val>
-   </str>
-   <str name="ERROR__EXTENSION_SWF_VERSION_INVALID">
-     <val>The native extension library.swf version is invalid for this application. Try re-installing or contacting the publisher for assistance.</val>
-   </str>
-   <str name="ERROR__EXTENSION_APP_VERSION_MISMATCH">
-     <val>The native extension namespace or swf version is incompatible with this application. Try re-installing or contacting the publisher for assistance.</val>
-   </str>
    <str name="HTML_CONTEXTMENU__NAVIGATION__STOP">
      <val>Stop</val> 
    </str>

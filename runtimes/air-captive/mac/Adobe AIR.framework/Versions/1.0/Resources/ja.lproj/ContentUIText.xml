@@ -7,48 +7,6 @@
    <str name="ERROR__DAMAGED_APPLICATION" translate="yes">
      <val>このアプリケーションは正しくインストールされていません。再インストールするか、発行者にお問い合わせください。</val> 
    </str>
-   <str name="ERROR__INVALID_DESC" translate="yes">
-     <val>このアプリケーションのアプリケーション記述子は無効です。再インストールするか、発行者に問い合わせてください。</val>
-   </str>
-   <str name="ERROR__NO_DESC" translate="yes">
-     <val>このアプリケーションのアプリケーション記述子が見つかりませんでした。再インストールするか、発行者に問い合わせてください。</val>
-   </str>
-   <str name="ERROR__LOAD_CONTENT" translate="yes">
-     <val>このアプリケーションの初期コンテンツをロードできませんでした。再インストールするか、発行者に問い合わせてください。</val>
-   </str>
-   <str name="ERROR__NO_CONTENT" translate="yes">
-     <val>このアプリケーションの初期コンテンツが見つかりませんでした。再インストールするか、発行者に問い合わせてください。</val>
-   </str>
-   <str name="ERROR__NO_PUBID" translate="yes">
-     <val>このアプリケーションの発行者 ID が見つかりませんでした。再インストールするか、発行者に問い合わせてください。</val>
-   </str>
-   <str name="ERROR__PROFILE_NOT_SUPPORTED" translate="yes">
-     <val>指定されたプロファイルはこのアプリケーションでサポートされていません。再インストールするか、発行者に問い合わせてください。</val>
-   </str>
-   <str name="ERROR__UNEXPECTED_PUBID" translate="yes">
-     <val>このアプリケーションの予期しない発行者 ID が見つかりました。再インストールするか、発行者に問い合わせてください。</val>
-   </str>
-   <str name="ERROR__DUPLICATE_EXTENSION" translate="yes">
-     <val>このアプリケーションの重複するネイティブ拡張が見つかりました。再インストールするか、発行者に問い合わせてください。</val>
-   </str>
-   <str name="ERROR__EXTENSION_DEPLOYMENT_MISMATCH" translate="yes">
-     <val>このアプリケーションのネイティブ拡張のデプロイに不一致があります。再インストールするか、発行者に問い合わせてください。</val>
-   </str>
-   <str name="ERROR__EXTENSION_MISSING" translate="yes">
-     <val>このアプリケーションに必須のネイティブ拡張がありません。再インストールするか、発行者に問い合わせてください。</val>
-   </str>
-   <str name="ERROR__EXTENSION_XML_INVALID" translate="yes">
-     <val>ネイティブ拡張の xml ファイルはこのアプリケーションに対して無効です。再インストールするか、発行者に問い合わせてください。</val>
-   </str>
-   <str name="ERROR__NOT_SUPPORTED_IN_PROFILE" translate="yes">
-     <val>ネイティブ拡張プロファイルがこのアプリケーションでサポートされていません。再インストールするか、発行者に問い合わせてください。</val>
-   </str>
-   <str name="ERROR__EXTENSION_SWF_VERSION_INVALID" translate="yes">
-     <val>ネイティブ拡張ライブラリの .swf バージョンはこのアプリケーションに対して無効です。再インストールするか、発行者に問い合わせてください。</val>
-   </str>
-   <str name="ERROR__EXTENSION_APP_VERSION_MISMATCH" translate="yes">
-     <val>ネイティブ拡張の名前空間または swf バージョンは、このアプリケーションと互換性がありません。再インストールするか、発行者に問い合わせてください。</val>
-   </str>
    <str name="HTML_CONTEXTMENU__NAVIGATION__STOP" translate="yes">
      <val>停止</val> 
    </str>

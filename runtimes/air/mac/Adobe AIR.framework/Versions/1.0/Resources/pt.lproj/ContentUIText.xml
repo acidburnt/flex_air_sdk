@@ -7,48 +7,6 @@
    <str name="ERROR__DAMAGED_APPLICATION" translate="yes">
      <val>A instalação deste aplicativo está danificada. Tente reinstalá-lo ou entre em contato com o editor para obter ajuda.</val> 
    </str>
-   <str name="ERROR__INVALID_DESC" translate="yes">
-     <val>Este aplicativo possui um descritor de aplicativo inválido. Tente reinstalar ou entre em contato com o editor para obter assistência.</val>
-   </str>
-   <str name="ERROR__NO_DESC" translate="yes">
-     <val>O descritor de aplicativo não pôde ser encontrado para este aplicativo. Tente reinstalar ou entre em contato com o editor para obter assistência.</val>
-   </str>
-   <str name="ERROR__LOAD_CONTENT" translate="yes">
-     <val>O conteúdo inicial não pode ser carregado neste aplicativo. Tente reinstalar ou entre em contato com o editor para obter assistência.</val>
-   </str>
-   <str name="ERROR__NO_CONTENT" translate="yes">
-     <val>O conteúdo inicial não pôde ser encontrado para este aplicativo. Tente reinstalar ou entre em contato com o editor para obter assistência.</val>
-   </str>
-   <str name="ERROR__NO_PUBID" translate="yes">
-     <val>A ID do editor não pôde ser encontrada para este aplicativo. Tente reinstalar ou entre em contato com o editor para obter assistência.</val>
-   </str>
-   <str name="ERROR__PROFILE_NOT_SUPPORTED" translate="yes">
-     <val>O perfil especificado não é suportada neste aplicativo. Tente reinstalar ou entre em contato com o editor para obter assistência.</val>
-   </str>
-   <str name="ERROR__UNEXPECTED_PUBID" translate="yes">
-     <val>ID de editor inesperada encontrada para este aplicativo. Tente reinstalar ou entre em contato com o editor para obter assistência.</val>
-   </str>
-   <str name="ERROR__DUPLICATE_EXTENSION" translate="yes">
-     <val>Uma extensão duplicada nativa foi encontrada para esse aplicativo. Tente reinstalar ou entre em contato com o editor para obter assistência.</val>
-   </str>
-   <str name="ERROR__EXTENSION_DEPLOYMENT_MISMATCH" translate="yes">
-     <val>Há uma falha de correspondência de implantação de extensão nativa neste aplicativo. Tente reinstalar ou entre em contato com o editor para obter assistência.</val>
-   </str>
-   <str name="ERROR__EXTENSION_MISSING" translate="yes">
-     <val>A extensão nativa necessária está ausente neste aplicativo. Tente reinstalar ou entre em contato com o editor para obter assistência.</val>
-   </str>
-   <str name="ERROR__EXTENSION_XML_INVALID" translate="yes">
-     <val>O arquivo xml da extensão nativa é inválida neste aplicativo. Tente reinstalar ou entre em contato com o editor para obter assistência.</val>
-   </str>
-   <str name="ERROR__NOT_SUPPORTED_IN_PROFILE" translate="yes">
-     <val>O perfil de extensão nativa não é suportado com este aplicativo. Tente reinstalar ou entre em contato com o editor para obter assistência.</val>
-   </str>
-   <str name="ERROR__EXTENSION_SWF_VERSION_INVALID" translate="yes">
-     <val>A versão da extensão nativa library.swf é inválida neste aplicativo. Tente reinstalar ou entre em contato com o editor para obter assistência.</val>
-   </str>
-   <str name="ERROR__EXTENSION_APP_VERSION_MISMATCH" translate="yes">
-     <val>A versão do swf ou do namespace da extensão nativa é incompatível com este aplicativo. Tente reinstalar ou entre em contato com o editor para obter assistência.</val>
-   </str>
    <str name="HTML_CONTEXTMENU__NAVIGATION__STOP" translate="yes">
      <val>Parar</val> 
    </str>

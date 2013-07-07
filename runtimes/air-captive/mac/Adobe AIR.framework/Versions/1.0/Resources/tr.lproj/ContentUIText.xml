@@ -7,48 +7,6 @@
    <str name="ERROR__DAMAGED_APPLICATION" translate="yes">
      <val>Bu uygulamanın yüklemesi hasarlı. Yeniden yüklemeyi veya yardım için yayıncıyla bağlantı kurmayı deneyin.</val> 
    </str>
-   <str name="ERROR__INVALID_DESC" translate="yes">
-     <val>Bu uygulamada geçersiz bir uygulama tanımlayıcısı bulunuyor. Yeniden yüklemeyi veya yardım için yayıncı ile iletişim kurmayı deneyin.</val>
-   </str>
-   <str name="ERROR__NO_DESC" translate="yes">
-     <val>Bu uygulama için uygulama tanımlayıcısı bulunamadı. Yeniden yüklemeyi veya yardım için yayıncı ile iletişim kurmayı deneyin.</val>
-   </str>
-   <str name="ERROR__LOAD_CONTENT" translate="yes">
-     <val>İlk içerik bu uygulama için yüklenemedi. Yeniden yüklemeyi veya yardım için yayıncı ile iletişim kurmayı deneyin.</val>
-   </str>
-   <str name="ERROR__NO_CONTENT" translate="yes">
-     <val>Bu uygulama için ilk içerik bulunamadı. Yeniden yüklemeyi veya yardım için yayıncı ile iletişim kurmayı deneyin.</val>
-   </str>
-   <str name="ERROR__NO_PUBID" translate="yes">
-     <val>Bu uygulama için yayıncı kimliği bulunamadı. Yeniden yüklemeyi veya yardım için yayıncı ile iletişim kurmayı deneyin.</val>
-   </str>
-   <str name="ERROR__PROFILE_NOT_SUPPORTED" translate="yes">
-     <val>Belirtilen profil bu uygulama için desteklenmiyor. Yeniden yüklemeyi veya yardım için yayıncı ile iletişim kurmayı deneyin.</val>
-   </str>
-   <str name="ERROR__UNEXPECTED_PUBID" translate="yes">
-     <val>Bu uygulama için beklenmeyen Yayıncı Kimliği bulundu. Yeniden yüklemeyi veya yardım için yayıncı ile iletişim kurmayı deneyin.</val>
-   </str>
-   <str name="ERROR__DUPLICATE_EXTENSION" translate="yes">
-     <val>Bu uygulama için yinelenen yerel bir uzantı bulundu. Yeniden yüklemeyi veya yardım için yayıncı ile iletişim kurmayı deneyin.</val>
-   </str>
-   <str name="ERROR__EXTENSION_DEPLOYMENT_MISMATCH" translate="yes">
-     <val>Bu uygulamaya yönelik bir yerel uzantı dağıtım uyumsuzluğu bulunmaktadır. Yeniden yüklemeyi veya yardım için yayıncı ile iletişim kurmayı deneyin.</val>
-   </str>
-   <str name="ERROR__EXTENSION_MISSING" translate="yes">
-     <val>Bu uygulama için gerekli yerel uzantı eksik. Yeniden yüklemeyi veya yardım için yayıncı ile iletişim kurmayı deneyin.</val>
-   </str>
-   <str name="ERROR__EXTENSION_XML_INVALID" translate="yes">
-     <val>Yerel uzantı xml dosyası bu uygulama için geçersiz. Yeniden yüklemeyi veya yardım için yayıncı ile iletişim kurmayı deneyin.</val>
-   </str>
-   <str name="ERROR__NOT_SUPPORTED_IN_PROFILE" translate="yes">
-     <val>Yerel uzantı profili bu uygulamada desteklenmiyor. Yeniden yüklemeyi veya yardım için yayıncı ile iletişim kurmayı deneyin.</val>
-   </str>
-   <str name="ERROR__EXTENSION_SWF_VERSION_INVALID" translate="yes">
-     <val>Yerel uzantı library.swf sürümü bu uygulama için geçersiz. Yeniden yüklemeyi veya yardım için yayıncı ile iletişim kurmayı deneyin.</val>
-   </str>
-   <str name="ERROR__EXTENSION_APP_VERSION_MISMATCH" translate="yes">
-     <val>Yerel uzantı ad alanı veya swf sürümü bu uygulama ile uyumlu değil. Yeniden yüklemeyi veya yardım için yayıncı ile iletişim kurmayı deneyin.</val>
-   </str>
    <str name="HTML_CONTEXTMENU__NAVIGATION__STOP" translate="yes">
      <val>Durdur</val> 
    </str>

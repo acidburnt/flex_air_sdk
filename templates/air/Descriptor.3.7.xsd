@@ -112,6 +112,9 @@
                   </xs:restriction>
                 </xs:simpleType>
               </xs:element>
+              
+              <!-- Default is false -->
+              <xs:element name="depthAndStencil" type="xs:boolean" minOccurs="0" />
 
               <!-- OSX only -->
               <xs:element name="requestedDisplayResolution" minOccurs="0"  >
@@ -223,6 +226,7 @@
        	    <xs:all>
               <!-- A list of plist key/value pairs to be added to the application Info.plist -->
        	      <xs:element name="InfoAdditions" type="xs:string" minOccurs="0"/>
+       	      <xs:element name="Entitlements" type="xs:string" minOccurs="0"/>
               
               <!-- Forcing CPU Render Mode for the mentioned devices -->
               <xs:element name="forceCPURenderModeForDevices" minOccurs="0" maxOccurs="1">
@@ -242,25 +246,42 @@
                       </xs:simpleContent>
                   </xs:complexType>
               </xs:element>
+              
+              <!-- In standard packaging mode, this tag prevents external swfs to be packaged 
+      		  inside the application and outputs the stripped swfs to externalStrippedSwfs folder-->
+        	  <xs:element name="externalSwfs" minOccurs="0" maxOccurs="1">
+        	  	<xs:simpleType>
+	        		<xs:restriction base="xs:string">
+                	<xs:minLength value="1"/>
+					</xs:restriction>
+              	</xs:simpleType>
+        	  </xs:element>
+        
        	    </xs:all>
        	  </xs:complexType>
       	</xs:element>
-      	
-      	<!-- In standard packaging mode, this tag prevents external swfs to be packaged 
-      	inside the application and outputs the stripped swfs to externalStrippedSwfs folder-->
-        <xs:element name="externalSwfs" minOccurs="0" maxOccurs="1">
-        	<xs:simpleType>
-	        	<xs:restriction base="xs:string">
-                	<xs:minLength value="1"/>
-				</xs:restriction>
-            </xs:simpleType>
-        </xs:element>
 
 	<!-- android-specific capabilities -->
         <xs:element name="android" minOccurs="0" maxOccurs="1">
           <xs:complexType>
             <xs:all>
               <xs:element name="manifestAdditions" type="xs:string" minOccurs="0" maxOccurs="1"/>
+              
+              
+              <!-- Prior to AIR 3, 16-bit color is always used on Android.
+              In AIR 3, 32-bit color is used by default.-->
+               <xs:element name="colorDepth" minOccurs="0" maxOccurs="1">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:enumeration value="16bit"/>
+                    <xs:enumeration value="32bit"/>
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              
+              <!-- default is false -->
+              <xs:element name="containsVideo" type="xs:boolean" minOccurs="0"/>
+              
             </xs:all>
           </xs:complexType>
         </xs:element>
@@ -268,7 +289,7 @@
 	</xs:all>	  
 
       <!-- About the runtime version required -->
-      <xs:attribute name="minimumPatchLevel" type="xs:unsignedInt" minOccurs="0"/>
+      <xs:attribute name="minimumPatchLevel" type="xs:unsignedInt"/>
     </xs:complexType>
   </xs:element>
 

@@ -7,48 +7,6 @@
    <str name="ERROR__DAMAGED_APPLICATION" translate="yes">
      <val>此應用程式的安裝程式已損毀。請嘗試重新安裝，或聯絡發行者以取得協助。</val> 
    </str>
-   <str name="ERROR__INVALID_DESC" translate="yes">
-     <val>這個應用程式具有無效的應用程式描述器。請嘗試重新安裝或聯絡發行者，以取得協助。</val>
-   </str>
-   <str name="ERROR__NO_DESC" translate="yes">
-     <val>找不到這個應用程式的應用程式描述器。請嘗試重新安裝或聯絡發行者，以取得協助。</val>
-   </str>
-   <str name="ERROR__LOAD_CONTENT" translate="yes">
-     <val>無法載入這個應用程式的初始內容。請嘗試重新安裝或聯絡發行者，以取得協助。</val>
-   </str>
-   <str name="ERROR__NO_CONTENT" translate="yes">
-     <val>找不到這個應用程式的初始內容。請嘗試重新安裝或聯絡發行者，以取得協助。</val>
-   </str>
-   <str name="ERROR__NO_PUBID" translate="yes">
-     <val>找不到這個應用程式的發行者 ID。請嘗試重新安裝或聯絡發行者，以取得協助。</val>
-   </str>
-   <str name="ERROR__PROFILE_NOT_SUPPORTED" translate="yes">
-     <val>這個應用程式不支援指定的描述檔。請嘗試重新安裝或聯絡發行者，以取得協助。</val>
-   </str>
-   <str name="ERROR__UNEXPECTED_PUBID" translate="yes">
-     <val>在這個應用程式中找到未預期的發行者 ID。請嘗試重新安裝或聯絡發行者，以取得協助。</val>
-   </str>
-   <str name="ERROR__DUPLICATE_EXTENSION" translate="yes">
-     <val>在這個應用程式中找到重複的原生擴充功能。請嘗試重新安裝或聯絡發行者，以取得協助。</val>
-   </str>
-   <str name="ERROR__EXTENSION_DEPLOYMENT_MISMATCH" translate="yes">
-     <val>這個應用程式的原生擴充功能部署不符。請嘗試重新安裝或聯絡發行者，以取得協助。</val>
-   </str>
-   <str name="ERROR__EXTENSION_MISSING" translate="yes">
-     <val>這個應用程式遺失必要的原生擴充功能。請嘗試重新安裝或聯絡發行者，以取得協助。</val>
-   </str>
-   <str name="ERROR__EXTENSION_XML_INVALID" translate="yes">
-     <val>這個應用程式的原生擴充功能 xml 檔案無效。請嘗試重新安裝或聯絡發行者，以取得協助。</val>
-   </str>
-   <str name="ERROR__NOT_SUPPORTED_IN_PROFILE" translate="yes">
-     <val>這個應用程式不支援原生擴充功能描述檔。請嘗試重新安裝或聯絡發行者，以取得協助。</val>
-   </str>
-   <str name="ERROR__EXTENSION_SWF_VERSION_INVALID" translate="yes">
-     <val>這個應用程式的原生擴充功能 library.swf 版本無效。請嘗試重新安裝或聯絡發行者，以取得協助。</val>
-   </str>
-   <str name="ERROR__EXTENSION_APP_VERSION_MISMATCH" translate="yes">
-     <val>原生擴充功能命名空間或 SWF 版本與這個應用程式不相容。請嘗試重新安裝或聯絡發行者，以取得協助。</val>
-   </str>
    <str name="HTML_CONTEXTMENU__NAVIGATION__STOP" translate="yes">
      <val>停止</val> 
    </str>

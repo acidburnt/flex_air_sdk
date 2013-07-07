@@ -7,48 +7,6 @@
    <str name="ERROR__DAMAGED_APPLICATION" translate="yes">
      <val>De installatie van deze toepassing is beschadigd. Probeer de toepassing opnieuw te installeren of neem contact op met de uitgever voor hulp.</val> 
    </str>
-   <str name="ERROR__INVALID_DESC" translate="yes">
-     <val>Deze toepassing heeft een ongeldig toepassingsbeschrijvingsbestand. Probeer deze opnieuw te installeren of neem contact op met de uitgever voor hulp.</val>
-   </str>
-   <str name="ERROR__NO_DESC" translate="yes">
-     <val>Het beschrijvingsbestand is niet gevonden voor deze toepassing. Probeer deze opnieuw te installeren of neem contact op met de uitgever voor hulp.</val>
-   </str>
-   <str name="ERROR__LOAD_CONTENT" translate="yes">
-     <val>De initiële inhoud kan niet worden geladen voor deze toepassing. Probeer deze opnieuw te installeren of neem contact op met de uitgever voor hulp.</val>
-   </str>
-   <str name="ERROR__NO_CONTENT" translate="yes">
-     <val>De initiële inhoud is niet gevonden voor deze toepassing. Probeer deze opnieuw te installeren of neem contact op met de uitgever voor hulp.</val>
-   </str>
-   <str name="ERROR__NO_PUBID" translate="yes">
-     <val>De uitgever-id is niet gevonden voor deze toepassing. Probeer deze opnieuw te installeren of neem contact op met de uitgever voor hulp.</val>
-   </str>
-   <str name="ERROR__PROFILE_NOT_SUPPORTED" translate="yes">
-     <val>Het opgegeven profiel wordt niet ondersteund voor deze toepassing. Probeer deze opnieuw te installeren of neem contact op met de uitgever voor hulp.</val>
-   </str>
-   <str name="ERROR__UNEXPECTED_PUBID" translate="yes">
-     <val>Er is een onverwachte uitgever-id gevonden voor deze toepassing. Probeer deze opnieuw te installeren of neem contact op met de uitgever voor hulp.</val>
-   </str>
-   <str name="ERROR__DUPLICATE_EXTENSION" translate="yes">
-     <val>Er is een dubbele native extensie gevonden voor deze toepassing. Probeer deze opnieuw te installeren of neem contact op met de uitgever voor hulp.</val>
-   </str>
-   <str name="ERROR__EXTENSION_DEPLOYMENT_MISMATCH" translate="yes">
-     <val>Er is geen overeenkomst voor de implementatie van deze native extensie voor deze toepassing. Probeer deze opnieuw te installeren of neem contact op met de uitgever voor hulp.</val>
-   </str>
-   <str name="ERROR__EXTENSION_MISSING" translate="yes">
-     <val>De vereiste native extensie ontbreekt voor deze toepassing. Probeer deze opnieuw te installeren of neem contact op met de uitgever voor hulp.</val>
-   </str>
-   <str name="ERROR__EXTENSION_XML_INVALID" translate="yes">
-     <val>Het XML-bestand van de native extensie is ongeldig voor deze toepassing. Probeer deze opnieuw te installeren of neem contact op met de uitgever voor hulp.</val>
-   </str>
-   <str name="ERROR__NOT_SUPPORTED_IN_PROFILE" translate="yes">
-     <val>Het native-extensieprofiel wordt niet ondersteund voor deze toepassing. Probeer deze opnieuw te installeren of neem contact op met de uitgever voor hulp.</val>
-   </str>
-   <str name="ERROR__EXTENSION_SWF_VERSION_INVALID" translate="yes">
-     <val>De library.swf-versie van de native extensie is ongeldig voor deze toepassing. Probeer deze opnieuw te installeren of neem contact op met de uitgever voor hulp.</val>
-   </str>
-   <str name="ERROR__EXTENSION_APP_VERSION_MISMATCH" translate="yes">
-     <val>De naamruimte van de native extensie of de SWF-versie is incompatibel met deze toepassing. Probeer deze opnieuw te installeren of neem contact op met de uitgever voor hulp.</val>
-   </str>
    <str name="HTML_CONTEXTMENU__NAVIGATION__STOP" translate="yes">
      <val>Stoppen</val> 
    </str>
